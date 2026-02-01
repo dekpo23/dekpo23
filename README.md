@@ -18,23 +18,31 @@ Please, use this section to assist yourself with navigation.
 - 👨‍💻 Want to know more about me? Visit **[My Website](https://github.com/dekpo23)** or **[My Resume]()**
 
 
-The projects in this Github profile are segmented into the following sections:
+## Projects
 
-| **LLMs and Transformers** | **Data Analysis and Visualisation** | **FastAPIs** |
-|------         | -------       | ------ |
-| - [Stock Assets Prediction](https://github.com/BasseyIsrael/Stock-Assets-Prediction)| - [Stock Assets Prediction](https://github.com/BasseyIsrael/Stock-Assets-Prediction) | - [Inventory Management System](https://github.com/BasseyIsrael/Inventory-Management-System) |
-| - [Gas Hydrates Risk Management System](https://github.com/BasseyIsrael/Gas-Hydrates-Risk-Management-System) | - [Stocks Portfolio Optimization](https://github.com/BasseyIsrael/Stock-Portfolio-Optimization) | - [Excel-VBA-Scripts](https://github.com/BasseyIsrael/Excel-VBA-Scripts)
-| - [Choke Performance Analysis](#) | - [Production Prediction & Forecasting](#) | - [Employee Credentials Management System](https://github.com/BasseyIsrael/Employee-Credential-Management-System)
-|- [Dynamic Statistical Modelling of Production Systems](https://github.com/BasseyIsrael/Dynamic-Statistical-Modelling-of-Production-Systems) | | - [Dynamic Statistical Modelling of Production Systems](https://github.com/BasseyIsrael/Dynamic-Statistical-Modelling-of-Production-Systems) |
-| - [Stocks Portfolio Optimization](https://github.com/BasseyIsrael/Stock-Portfolio-Optimization) |
+Here are some projects I’ve worked on — click on the links to explore the code:
+
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| Tax-Assistant | A tool/assistant related to tax tasks | https://github.com/dekpo23/Tax-Assistant |
+| RAGS_tutorial | Jupyter Notebook tutorial on RAGS | https://github.com/dekpo23/RAGS_tutorial |
+| Investment Analysis Chatbot | Chatbot for investment insights | https://github.com/dekpo23/Investment_Analysis_Chatbot |
+| Customer Support Chatbot | Chatbot for customer support simulations | https://github.com/dekpo23/Customer_Support_Chatbot |
+| RAG_with_Tools | Notebook on RAG (Retrieval Augmented Generation) with tools | https://github.com/dekpo23/RAG_with_Tools |
+| Maths Assistant Chatbot | Python-based math help assistant | https://github.com/dekpo23/Maths_Assistant_Chatbot |
+| Churn Prediction with MLP | Neural network churn prediction | https://github.com/dekpo23/Churn-prediction-with-Multi-layer-Perceptron |
+| Offline-GPT | Offline GPT implementation | https://github.com/dekpo23/Offline-GPT |
+| California Housing Prediction | Neural network for housing price prediction | https://github.com/dekpo23/California-Housing-Prices-Prediction-Neural-Networks- |
+| Loan Default Prediction | Notebook for loan default modeling | https://github.com/dekpo23/Loan_default_prediction |
+| Easy Visa Classification | Classification model for visa outcomes | https://github.com/dekpo23/Easy-Visa-Classification |
+| Home Loan EDA | Exploratory data analysis for home loans | https://github.com/dekpo23/Home_Loan_Exploratory_Data_Analysis |
+| Employee Management | Python project for employee management | https://github.com/dekpo23/Employee_Management |
+| Calculator | Simple Python calculator project | https://github.com/dekpo23/calculator |
+| APIs | Notebook showing API examples | https://github.com/dekpo23/APIs |
+| FastApis | FastAPI project | https://github.com/dekpo23/FastApis |
+| ContactSaver | Python project for saving contacts | https://github.com/dekpo23/ContactSaver |
 
 
-
-| **Involving Power BI Dashboards** | **Process Optimization Projects** | **Productivity Scripts** |
-|------          |------          |------       |
-| - [Inventory Management System](https://github.com/BasseyIsrael/Inventory-Management-System) | - [Inventory Management System](https://github.com/BasseyIsrael/Inventory-Management-System) | - [SQL-Execution-Scripts](https://github.com/BasseyIsrael/SQL-Execution-Scripts) 
-| - [Service Requests Dashboard](https://github.com/BasseyIsrael/Service-Requests-Dashboard) |  - [Employee Credentials Management System](https://github.com/BasseyIsrael/Employee-Credential-Management-System) | - [Excel-VBA-Scripts](https://github.com/BasseyIsrael/Excel-VBA-Scripts) 
-| - [Supplier Quality Analysis](https://github.com/BasseyIsrael/Supplier-Quality-Analysis) 
 
 
 
