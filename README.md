@@ -3,7 +3,7 @@
 <h3 align="center">Building Data-Driven Business Solutions for the Future of Work.</h3>
 
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://github.com/dekpo23/dekpo23/blob/master/Nft%20Coding%20GIF.gif">
 
 Welcome to my GitHub page!
 I am an AI Engineer with years of experience building and deploying intelligent systems using Python and modern machine-learning frameworks. My expertise spans machine learning, deep learning, NLP, computer vision, LLMs, and model deployment.
