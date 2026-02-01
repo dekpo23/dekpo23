@@ -19,29 +19,26 @@ Please, use this section to assist yourself with navigation.
 - 👨‍💻 Want to know more about me? Visit **[My Website](https://github.com/dekpo23)** or **[My Resume](https://github.com/dekpo23/dekpo23/blob/master/Ekpo-David-Friday.pdf)**
 
 
-## Projects
+## Featured Projects
 
 Here are some projects I’ve worked on — click on the links to explore the code:
 
+
+
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| Tax-Assistant | A tool/assistant related to tax tasks | https://github.com/dekpo23/Tax-Assistant |
-| RAGS_tutorial | Jupyter Notebook tutorial on RAGS | https://github.com/dekpo23/RAGS_tutorial |
-| Investment Analysis Chatbot | Chatbot for investment insights | https://github.com/dekpo23/Investment_Analysis_Chatbot |
-| Customer Support Chatbot | Chatbot for customer support simulations | https://github.com/dekpo23/Customer_Support_Chatbot |
-| RAG_with_Tools | Notebook on RAG (Retrieval Augmented Generation) with tools | https://github.com/dekpo23/RAG_with_Tools |
-| Maths Assistant Chatbot | Python-based math help assistant | https://github.com/dekpo23/Maths_Assistant_Chatbot |
-| Churn Prediction with MLP | Neural network churn prediction | https://github.com/dekpo23/Churn-prediction-with-Multi-layer-Perceptron |
-| Offline-GPT | Offline GPT implementation | https://github.com/dekpo23/Offline-GPT |
-| California Housing Prediction | Neural network for housing price prediction | https://github.com/dekpo23/California-Housing-Prices-Prediction-Neural-Networks- |
-| Loan Default Prediction | Notebook for loan default modeling | https://github.com/dekpo23/Loan_default_prediction |
-| Easy Visa Classification | Classification model for visa outcomes | https://github.com/dekpo23/Easy-Visa-Classification |
-| Home Loan EDA | Exploratory data analysis for home loans | https://github.com/dekpo23/Home_Loan_Exploratory_Data_Analysis |
-| Employee Management | Python project for employee management | https://github.com/dekpo23/Employee_Management |
-| Calculator | Simple Python calculator project | https://github.com/dekpo23/calculator |
-| APIs | Notebook showing API examples | https://github.com/dekpo23/APIs |
-| FastApis | FastAPI project | https://github.com/dekpo23/FastApis |
-| ContactSaver | Python project for saving contacts | https://github.com/dekpo23/ContactSaver |
+| **AwaSabi** | AI-powered multilingual learning system for Nigerian indigenous languages featuring translation and TTS. | [Link](https://github.com/AjeeAI/Awarri-hackathon) |
+| **Maths Assistant Chatbot** | Python-based math help assistant designed to guide students through problem-solving steps. | [Link](https://github.com/dekpo23/Maths_Assistant_Chatbot) |
+| **Tax-Assistant** | A specialized LLM tool designed to assist with tax-related tasks and queries. | [Link](https://github.com/dekpo23/Tax-Assistant) |
+| **Investment Analysis** | An intelligent chatbot providing data-driven investment insights and financial analysis. | [Link](https://github.com/dekpo23/Investment_Analysis_Chatbot) |
+| **Churn Prediction** | Neural network model utilizing Multi-layer Perceptron to predict customer churn. | [Link](https://github.com/dekpo23/Churn-prediction-with-Multi-layer-Perceptron) |
+| **RAG with Tools** | Implementation of Retrieval Augmented Generation (RAG) using various external tools and agents. | [Link](https://github.com/dekpo23/RAG_with_Tools) |
+| **Easy Visa Classification** | Machine learning classification model used to predict visa application outcomes. | [Link](https://github.com/dekpo23/Easy-Visa-Classification) |
+| **California Housing** | Neural network project focused on predicting housing prices using geographic and economic data. | [Link](https://github.com/dekpo23/California-Housing-Prices-Prediction-Neural-Networks-) |
+| **Offline-GPT** | A project exploring the implementation of Generative Pre-trained Transformers in offline environments. | [Link](https://github.com/dekpo23/Offline-GPT) |
+| **FastAPIs** | A repository showcasing backend development and API integration using the FastAPI framework. | [Link](https://github.com/dekpo23/FastApis) |
+| **Loan Default Prediction** | Data science project focused on modeling and predicting the likelihood of loan defaults. | [Link](https://github.com/dekpo23/Loan_default_prediction) |
+| **ContactSaver** | Python project for saving contacts | https://github.com/dekpo23/ContactSaver |
 
 
 
