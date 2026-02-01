@@ -27,17 +27,17 @@ Here are some projects I’ve worked on — click on the links to explore the co
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **AwaSabi** | AI-powered multilingual learning system for Nigerian indigenous languages featuring translation and TTS. | [Link](https://github.com/AjeeAI/Awarri-hackathon) |
-| **Maths Assistant Chatbot** | Python-based math help assistant designed to guide students through problem-solving steps. | [Link](https://github.com/dekpo23/Maths_Assistant_Chatbot) |
-| **Tax-Assistant** | A specialized LLM tool designed to assist with tax-related tasks and queries. | [Link](https://github.com/dekpo23/Tax-Assistant) |
-| **Investment Analysis** | An intelligent chatbot providing data-driven investment insights and financial analysis. | [Link](https://github.com/dekpo23/Investment_Analysis_Chatbot) |
-| **Churn Prediction** | Neural network model utilizing Multi-layer Perceptron to predict customer churn. | [Link](https://github.com/dekpo23/Churn-prediction-with-Multi-layer-Perceptron) |
-| **RAG with Tools** | Implementation of Retrieval Augmented Generation (RAG) using various external tools and agents. | [Link](https://github.com/dekpo23/RAG_with_Tools) |
-| **Easy Visa Classification** | Machine learning classification model used to predict visa application outcomes. | [Link](https://github.com/dekpo23/Easy-Visa-Classification) |
-| **California Housing** | Neural network project focused on predicting housing prices using geographic and economic data. | [Link](https://github.com/dekpo23/California-Housing-Prices-Prediction-Neural-Networks-) |
-| **Offline-GPT** | A project exploring the implementation of Generative Pre-trained Transformers in offline environments. | [Link](https://github.com/dekpo23/Offline-GPT) |
-| **FastAPIs** | A repository showcasing backend development and API integration using the FastAPI framework. | [Link](https://github.com/dekpo23/FastApis) |
-| **Loan Default Prediction** | Data science project focused on modeling and predicting the likelihood of loan defaults. | [Link](https://github.com/dekpo23/Loan_default_prediction) |
+| **AwaSabi** | AI-powered multilingual learning system for Nigerian indigenous languages featuring translation and TTS. | [AwaSabi](https://github.com/AjeeAI/Awarri-hackathon) |
+| **Maths Assistant Chatbot** | Python-based math help assistant designed to guide students through problem-solving steps. | [AdinyaAI](https://github.com/dekpo23/Maths_Assistant_Chatbot) |
+| **Tax-Assistant** | A specialized LLM tool designed to assist with tax-related tasks and queries. | [Tax-Assistant](https://github.com/dekpo23/Tax-Assistant) |
+| **Investment Analysis** | An intelligent chatbot providing data-driven investment insights and financial analysis. | [Investment_Analysis_Chatbot](https://github.com/dekpo23/Investment_Analysis_Chatbot) |
+| **Churn Prediction** | Neural network model utilizing Multi-layer Perceptron to predict customer churn. | [MultiLayerPerceptron](https://github.com/dekpo23/Churn-prediction-with-Multi-layer-Perceptron) |
+| **RAG with Tools** | Implementation of Retrieval Augmented Generation (RAG) using various external tools and agents. | [RAG_With_Tools](https://github.com/dekpo23/RAG_with_Tools) |
+| **Easy Visa Classification** | Machine learning classification model used to predict visa application outcomes. | [EasyVisaClassification](https://github.com/dekpo23/Easy-Visa-Classification) |
+| **California Housing** | Neural network project focused on predicting housing prices using geographic and economic data. | [HousingPricesPrediction](https://github.com/dekpo23/California-Housing-Prices-Prediction-Neural-Networks-) |
+| **Offline-GPT** | A project exploring the implementation of Generative Pre-trained Transformers in offline environments. | [Offline-gpt](https://github.com/dekpo23/Offline-GPT) |
+| **FastAPIs** | A repository showcasing backend development and API integration using the FastAPI framework. | [FastAPI](https://github.com/dekpo23/FastApis) |
+| **Loan Default Prediction** | Data science project focused on modeling and predicting the likelihood of loan defaults. | [LoanDefaultPrediction](https://github.com/dekpo23/Loan_default_prediction) |
 | **ContactSaver** | Python project for saving contacts | https://github.com/dekpo23/ContactSaver |
 
 
@@ -99,8 +99,3 @@ Here are some projects I’ve worked on — click on the links to explore the co
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basseyisrael&show_icons=true&locale=en&layout=compact" alt="basseyisrael" /></p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basseyisrael&show_icons=true&locale=en" alt="basseyisrael" /></p>-->
-
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basseyisrael&" alt="basseyisrael" /></p>-->
