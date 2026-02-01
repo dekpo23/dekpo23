@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm David Ekpo</h1>
-<h3 align="center">Building Data-Driven Business Solutions for the Future of Work.</h3>
+<h3 align="center">Architecting the Future with Multi-Agent Systems and Production AI.</h3>
 
 <p align="center">
 <img  alt="Coding" width="600" src="https://github.com/dekpo23/dekpo23/blob/master/Nft%20Coding%20GIF.gif">
