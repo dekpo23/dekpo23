@@ -15,7 +15,7 @@ Please, use this section to assist yourself with navigation.
 - 🔭 I’m currently working on **[Developing an intelligent Mathematics Teaching Assistant capable of explaining mathematical concepts, guiding students through problem-solving, and generating step-by-step solutions.](https://github.com/dekpo23/Maths_Assistant_Chatbot)**
 - 👯 Connect with me to collaborate on **Data-Driven Projects**
 - 📫 I'm easily reachable on **jofesdavid@gmail.com**
-- 👨‍💻 Want to know more about me? Visit **[My Website](https://github.com/dekpo23)** or **[My Resume]()**
+- 👨‍💻 Want to know more about me? Visit **[My Website](https://github.com/dekpo23)** or **[My Resume](https://github.com/dekpo23/dekpo23/blob/master/Ekpo-David-Friday.pdf)**
 
 
 ## Projects
