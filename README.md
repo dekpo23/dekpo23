@@ -27,7 +27,6 @@ Here are some projects I’ve worked on — click on the links to explore the co
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **Sentinnel** | AI-powered Banking system for automatic fraud detection and complaint routing | [Sentinnel](https://github.com/Cunyie08/genai_sentinel_banking_integration) |
 | **AwaSabi** | AI-powered multilingual learning system for Nigerian indigenous languages featuring translation and TTS. | [AwaSabi](https://github.com/AjeeAI/Awarri-hackathon) |
 | **Maths Assistant Chatbot** | Python-based math help assistant designed to guide students through problem-solving steps. | [AdinyaAI](https://github.com/dekpo23/Maths_Assistant_Chatbot) |
 | **Tax-Assistant** | A specialized LLM tool designed to assist with tax-related tasks and queries. | [Tax-Assistant](https://github.com/dekpo23/Tax-Assistant) |
